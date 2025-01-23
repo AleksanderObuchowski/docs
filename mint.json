@@ -7,7 +7,7 @@
   },
   "versions": [
   {
-    "name": "version-name",
+    "name": "v1",
     "default": true
   }
 ]
@@ -61,6 +61,7 @@
   "navigation": [
     {
       "group": "Get Started",
+      "version": "v1",
       "pages": [
         "introduction",
         "quickstart",
