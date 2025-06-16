@@ -7,7 +7,7 @@
   },
   "versions": [
   {
-    "name": "en",
+    "name": "pl",
     "default": true
   }
 ],
@@ -28,7 +28,7 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "About",
+    "name": "Skontaktuj się z nami",
     "url": "https://dashboard.mintlify.com"
   },
   "anchors": [],
